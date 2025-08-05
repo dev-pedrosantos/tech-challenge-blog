@@ -27,12 +27,19 @@ cd tech-challenge-blog
 npm install
 
 🔹 3. Configurar variáveis de ambiente
+
 Crie um arquivo .env na raiz do projeto:
+
 DB_HOST=localhost
+
 DB_USER=root
+
 DB_PASS=123456
+
 DB_NAME=techchallenge
+
 DB_PORT=3306
+
 PORT=3000
 
 ⚠️ Ajuste DB_PASS conforme sua senha do MySQL.⚠️
