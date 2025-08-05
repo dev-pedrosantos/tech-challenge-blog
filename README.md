@@ -137,6 +137,7 @@ tech-challenge-blog/
 
 
 👨‍💻 Pedro Lucas Walter Barbosa dos Santos
+
 Desenvolvido para o Tech Challenge - Fase 2 como parte do curso, visando integrar conhecimentos adquiridos em Node.js, SQL, APIs REST, Docker e práticas de desenvolvimento colaborativo.
 
 
