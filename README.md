@@ -105,21 +105,36 @@ Observe a resposta em formato JSON.
 📦 Estrutura de pastas
 tech-challenge-blog/
 │── src/
+
 │   ├── config/
+
 │   │   └── db.js
+
 │   ├── controllers/
+
 │   │   └── postController.js
+
 │   ├── models/
+
 │   │   └── Post.js
+
 │   ├── routes/
+
 │   │   └── postRoutes.js
+
 │   └── app.js
+
 │
 ├── Dockerfile
+
 ├── docker-compose.yml
+
 ├── package.json
+
 ├── README.md
+
 └── .env (não versionado)
+
 
 👨‍💻 Pedro Lucas Walter Barbosa dos Santos
 Desenvolvido para o Tech Challenge - Fase 2 como parte do curso, visando integrar conhecimentos adquiridos em Node.js, SQL, APIs REST, Docker e práticas de desenvolvimento colaborativo.
