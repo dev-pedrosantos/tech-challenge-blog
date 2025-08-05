@@ -66,16 +66,6 @@ docker compose down
 1️⃣ Listar todos os posts
 GET /api/posts
 
-Resposta:
-  {
-    "id": 1,
-    "titulo": "Minha primeira aula",
-    "conteudo": "Conteúdo de exemplo",
-    "autor": "Prof. João",
-    "createdAt": "2025-08-05T12:00:00.000Z",
-    "updatedAt": "2025-08-05T12:00:00.000Z"
-  }
-
 2️⃣ Buscar um post pelo ID
 GET /api/posts/:id
 
