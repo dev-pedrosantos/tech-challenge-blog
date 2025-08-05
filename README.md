@@ -138,6 +138,31 @@ tech-challenge-blog/
 
 └── .env (não versionado)
 
+🔗 Acessar a API no Render (Online)
+A API está publicada e disponível para testes online através do Render:
+
+URL base: https://tech-challenge-blog-kefn.onrender.com
+
+Exemplo de listar posts:
+
+GET https://tech-challenge-blog-kefn.onrender.com/api/posts
+
+Exemplo de criar post (POSTMAN ou outro cliente):
+POST https://tech-challenge-blog-kefn.onrender.com/api/posts
+
+Body (JSON):
+
+{
+  "titulo": "Teste no Render",
+  
+  "conteudo": "Primeiro post publicado online",
+  
+  "autor": "Prof. João"
+}
+
+
+
+
 
 👨‍💻 Pedro Lucas Walter Barbosa dos Santos
 
