@@ -64,21 +64,27 @@ docker compose down
 
 📡 Endpoints da API
 1️⃣ Listar todos os posts
+
 GET /api/posts
 
 2️⃣ Buscar um post pelo ID
+
 GET /api/posts/:id
 
 3️⃣ Criar um novo post
+
 POST /api/posts
 
 4️⃣ Atualizar um post
+
 PUT /api/posts/:id
 
 5️⃣ Excluir um post
+
 DELETE /api/posts/:id
 
 6️⃣ Buscar posts por palavra-chave
+
 GET /api/posts/search?q=matemática
 
 🧪 Testando no Postman
